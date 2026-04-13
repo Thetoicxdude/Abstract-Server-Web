@@ -17,7 +17,7 @@ interface CarouselItem {
 const carouselItems: CarouselItem[] = [
   { 
     id: 1, 
-    src: "/images/server-1.jpg", 
+    src: "/Abstract-Server-Web/images/server-1.jpg", 
     title: "夢幻城堡",
     description: "由玩家 MoonBuilder 歷時三個月精心打造的中世紀城堡，坐落於懸崖之上俯瞰整片大海，每當月色升起時分外壯觀。",
     location: "北方大陸 · 月光崖",
@@ -25,7 +25,7 @@ const carouselItems: CarouselItem[] = [
   },
   { 
     id: 2, 
-    src: "/images/server-2.jpg", 
+    src: "/Abstract-Server-Web/images/server-2.jpg", 
     title: "星光港口",
     description: "繁忙的貿易港口，連接著伺服器各個區域。黃昏時分，船隻歸港，燈火通明，是玩家們最愛的拍照聖地。",
     location: "東海岸 · 貿易灣",
@@ -33,7 +33,7 @@ const carouselItems: CarouselItem[] = [
   },
   { 
     id: 3, 
-    src: "/images/server-3.jpg", 
+    src: "/Abstract-Server-Web/images/server-3.jpg", 
     title: "月影森林",
     description: "神秘的發光森林，充滿了各種奇幻生物。生物發光的樹木和花朵創造出如夢似幻的氛圍，是冒險者的必經之地。",
     location: "中央大陸 · 幽靈林",
@@ -41,7 +41,7 @@ const carouselItems: CarouselItem[] = [
   },
   { 
     id: 4, 
-    src: "/images/server-4.jpg", 
+    src: "/Abstract-Server-Web/images/server-4.jpg", 
     title: "雲端秘境",
     description: "漂浮在雲層之上的天空城市，由魔法維持懸浮。瀑布從雲端傾瀉而下，橋樑連接各個浮島，令人嘆為觀止。",
     location: "天空領域 · 雲之都",
@@ -49,7 +49,7 @@ const carouselItems: CarouselItem[] = [
   },
   { 
     id: 5, 
-    src: "/images/server-5.jpg", 
+    src: "/Abstract-Server-Web/images/server-5.jpg", 
     title: "深海遺跡",
     description: "古老文明的水下遺跡，珊瑚與海藻環繞著神秘的建築。探索者可以發現隱藏的寶藏和古老的秘密。",
     location: "深海區域 · 亞特蘭提斯",
@@ -57,7 +57,7 @@ const carouselItems: CarouselItem[] = [
   },
   { 
     id: 6, 
-    src: "/images/server-6.jpg", 
+    src: "/Abstract-Server-Web/images/server-6.jpg", 
     title: "極光之巔",
     description: "位於世界最北端的雪山之巔，擁有壯觀的天文觀測台。夜晚極光舞動，是欣賞星空的最佳地點。",
     location: "極北之地 · 永凍峰",
