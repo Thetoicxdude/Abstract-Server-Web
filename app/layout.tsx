@@ -16,7 +16,7 @@ const notoSansTC = Noto_Sans_TC({
 });
 
 export const metadata: Metadata = {
-  title: '抽象伺服器 | Abstract Server',
+  title: 'Abstract Server Web | 抽象伺服器',
   description: '在月色與海洋之間，探索無限可能的 Minecraft 世界',
   generator: 'v0.app',
   icons: {

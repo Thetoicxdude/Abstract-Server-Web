@@ -1,6 +1,6 @@
-# Deviser
+# Abstract Server Web
 
-A modern, interactive web showcase built with Next.js and React. Features a fluid animated background, responsive design, and smooth user experience.
+A modern, interactive web showcase for Abstract Server built with Next.js and React. Features a fluid animated background, responsive design, and smooth user experience. Explore the infinite possibilities of the Minecraft world under moonlight and ocean waves.
 
 ## ✨ Features
 
